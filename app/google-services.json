@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1014103582028",
+    "firebase_url": "https://ludo-dcee2-default-rtdb.firebaseio.com",
+    "project_id": "ludo-dcee2",
+    "storage_bucket": "ludo-dcee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014103582028:android:65a1e6ebac3eb352715be9",
+        "android_client_info": {
+          "package_name": "com.example.indianludobattle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014103582028-pdp3mhi8d8n5rki0rblbrem368alkbg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVJuzv7q_5CCMGjVDa4nNvsnHlduUzyhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014103582028-pdp3mhi8d8n5rki0rblbrem368alkbg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014103582028:android:03abd8cf74ef982b715be9",
+        "android_client_info": {
+          "package_name": "com.project.firebasedise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014103582028-pdp3mhi8d8n5rki0rblbrem368alkbg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVJuzv7q_5CCMGjVDa4nNvsnHlduUzyhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014103582028-pdp3mhi8d8n5rki0rblbrem368alkbg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014103582028:android:49a8da21a5917f17715be9",
+        "android_client_info": {
+          "package_name": "com.sap.gamexo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014103582028-pdp3mhi8d8n5rki0rblbrem368alkbg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVJuzv7q_5CCMGjVDa4nNvsnHlduUzyhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014103582028-pdp3mhi8d8n5rki0rblbrem368alkbg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

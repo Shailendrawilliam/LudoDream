@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:visibility="gone"
+        android:layout_width="60dp"
+        android:id="@+id/item_layout"
+        android:layout_margin="4dp"
+        android:layout_centerHorizontal="true"
+        android:layout_height="60dp">
+
+        <ImageView
+            android:id="@+id/item_icon"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_centerInParent="true"
+            android:src="@mipmap/ic_launcher" />
+    </RelativeLayout>
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/item_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/item_layout"
+        android:background="@drawable/bg_circle_yellow_"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="8sp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_below="@+id/item_layout"
+        android:textColor="@color/white"
+        android:textSize="17sp"
+        android:layout_marginLeft="@dimen/_5sdp"
+        android:layout_marginRight="@dimen/_5sdp"
+        android:textStyle="bold"
+        android:text=""
+        android:id="@+id/item_name"/>
+</RelativeLayout>

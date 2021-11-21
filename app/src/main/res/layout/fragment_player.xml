@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Fragment.PlayerFragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.mlsdev.animatedrv.AnimatedRecyclerView
+            android:id="@+id/playerRecycler"
+            android:layout_width="match_parent"
+            android:nestedScrollingEnabled="false"
+            android:layout_height="match_parent"
+            app:animationDuration="600"
+            app:layoutAnimation="@anim/layout_animation_from_bottom"
+            app:layoutManagerOrientation="vertical"
+            app:gridLayoutManagerColumns="3"
+            app:layoutManagerReverse="false"
+            app:layoutManagerType="grid" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tvCreateRoom"
+            android:layout_width="@dimen/_120sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:background="@drawable/button_small_yellow"
+            android:gravity="center"
+            android:text="Create Room"
+            android:textColor="@color/white" />
+    </LinearLayout>
+</RelativeLayout>

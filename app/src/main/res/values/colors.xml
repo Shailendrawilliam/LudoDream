@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="colorPrimary">#524593</color>
+    <color name="colorPrimaryDark">#321d45</color>
+    <color name="colorAccent">#f4bc01</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#333333</color>
+    <color name="red">#f3404d</color>
+    <color name="blueColor">#28afff</color>
+    <color name="skyColor">#DDF2FF</color>
+    <color name="skyBlueColor">#B0E2FF</color>
+    <color name="skyBlueTextColor">#68C7FF</color>
+    <color name="red200Color">#FFD8DA</color>
+    <color name="red500Color">#FDAFB2</color>
+    <color name="red700Color">#FB5A61</color>
+    <color name="yellow200Color">#FBF7D8</color>
+    <color name="yellow500Color">#FDF2AD</color>
+    <color name="yellow700Color">#EDD74E</color>
+    <color name="green200Color">#DCFFEC</color>
+    <color name="green500Color">#AFFFD3</color>
+    <color name="green700Color">#40C57B</color>
+    <color name="redColour">#e91c25</color>
+    <color name="greenColor">#03a14a</color>
+    <color name="yellowColor">#ffdf1a</color>
+    <color name="maroonColor">#5a282d</color>
+    <color name="maroonColor1">#FD7077</color>
+    <color name="maroonColor2">#A1FDCB</color>
+    <color name="maroonColor3">#FBEE9C</color>
+    <color name="maroonColor4">#A4D9F8</color>
+    <color name="maroonColor5">#2C090909</color>
+</resources>
